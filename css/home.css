@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+body{margin: 0;
+    overflow-x: hidden;
+}
+
+#sidebar {
+    background-color: rgb(247, 242, 236);
+    height: 44.4em;
+}
+
+#main {
+    background-color: white;
+    height: 44.4em;
+}
