@@ -12,3 +12,19 @@ body{margin: 0;
     background-color: white;
     height: 44.4em;
 }
+
+#sidebar ul{
+    list-style-type: none;
+}
+button, .dropdown-menu a {
+    border: none;
+    outline: none;
+}
+.dropdown-menu {width: 30%}
+
+.span1 {
+    border-radius: 50%;
+    background-color: rgb(164, 8, 248);
+    padding: 5px;
+    margin-right : 10px;
+}
